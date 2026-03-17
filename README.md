@@ -27,7 +27,7 @@ This web application provides healthcare professionals and researchers with an a
 - **Visualization**: Plotly for interactive charts
 - **Deployment**: Python-based web application
 
-## Clinical Parameters
+## 🩺 Clinical Parameters
 
 The system evaluates the following clinical inputs:
 
@@ -49,7 +49,7 @@ The system evaluates the following clinical inputs:
 - Chest pain classification
 - Exercise-induced angina presence
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
 ```bash
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Usage
+## 🚀 Usage
 
 1. Navigate to the **Risk Assessment** tab
 2. Input patient clinical parameters in the respective sections
@@ -80,11 +80,11 @@ streamlit run app.py
 4. Review the risk classification and recommended actions
 5. Reference the **Guidelines** tab for clinical standards
 
-## Model Performance
+## 📊 Model Performance
 
 The KNN model has been trained on validated cardiovascular datasets with clinical parameter standardization and feature scaling for optimal prediction accuracy.
 
-## Important Disclaimers
+## 📦 Important Disclaimers
 
 - **Educational Use Only**: This tool is designed for educational and screening purposes
 - **Not for Diagnosis**: Results should not replace professional medical consultation
@@ -102,7 +102,7 @@ The KNN model has been trained on validated cardiovascular datasets with clinica
 └── README.md               # Project documentation
 ```
 
-## Requirements
+## 📦 Requirements
 
 ```
 streamlit>=1.28.0
@@ -112,11 +112,11 @@ plotly>=5.15.0
 joblib>=1.3.0
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome for improving the clinical accuracy, user interface, or adding new features. Please ensure all modifications maintain medical standards and professional presentation.
 
-## License
+## 📜 License
 
 This project is intended for educational and research purposes. Please consult with medical professionals before any clinical application.
 
