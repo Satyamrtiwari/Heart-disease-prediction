@@ -1,12 +1,17 @@
 # Heart Disease Risk Assessment System
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Django](https://img.shields.io/badge/Django-REST-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![AI](https://img.shields.io/badge/AI-HuggingFace-orange)
+
 A machine learning-powered clinical decision support tool for cardiovascular risk assessment using patient clinical parameters.
 
-## Overview
+## 📌 Overview
 
 This web application provides healthcare professionals and researchers with an automated risk stratification system for heart disease prediction. The system analyzes patient demographics, vital signs, laboratory results, and clinical symptoms to generate evidence-based risk assessments.
 
-## Features
+## 🎯 Features
 
 - **Interactive Risk Assessment**: Streamlined interface for inputting patient clinical data
 - **Real-time Predictions**: Instant risk classification with confidence scoring
@@ -14,7 +19,7 @@ This web application provides healthcare professionals and researchers with an a
 - **Professional Interface**: Clean, medical-grade user experience
 - **Confidence Metrics**: Visual gauge showing prediction reliability
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 - **Frontend**: Streamlit web framework
 - **Machine Learning**: K-Nearest Neighbors (KNN) algorithm
@@ -86,7 +91,7 @@ The KNN model has been trained on validated cardiovascular datasets with clinica
 - **Clinical Judgment**: Always consult qualified healthcare providers for medical decisions
 - **Research Tool**: Intended to support clinical decision-making, not replace it
 
-## File Structure
+## 📂 File Structure
 
 ```
 ├── app.py                    # Main Streamlit application
@@ -115,9 +120,9 @@ Contributions are welcome for improving the clinical accuracy, user interface, o
 
 This project is intended for educational and research purposes. Please consult with medical professionals before any clinical application.
 
-## Contact
+## 👤 Author
 
-**Developer**: Satyam  
+**Developer**: **Satyam Tiwari**
 **Purpose**: Clinical Decision Support System  
 **Status**: Educational/Research Tool
 
